@@ -34,9 +34,10 @@ test:
     # - pip check
   requires:
     - pip
+    - pyqt
 
 about:
-  home: https://pypi.org/project/napari-tiler/
+  home: https://pypi.org/project/napari-tiler
   summary: N-dimensional tiling and merging support for napari
   license: BSD-3-Clause
   license_file: LICENSE
